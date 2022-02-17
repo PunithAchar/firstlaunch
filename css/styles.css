@@ -1,0 +1,14 @@
+.navbar{
+    background-color: #000000fc;
+    background-position: center center;
+    background-size: cover;
+   }
+   
+   .navbar-brand {
+    font-size: 2rem;
+    font-family: serif;
+    font-weight: bold;
+    color: blue;
+   }
+   
+   
