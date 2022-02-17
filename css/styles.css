@@ -43,4 +43,34 @@
    text-align: center;
    color: #fff;
    }
-      
+
+   /*WHY CHOOSE LEARNEST*/
+
+.wcl{
+	background-color: #eeeeee;
+	padding: 120px;
+	height: 500px;
+}
+
+.wcl .cl-1 p{
+	color: #000;
+	font-size: 14px;
+	font-weight: 700;
+	text-align: left;
+}
+
+.wcl .cl-1 h1{
+	color: #000;
+	text-align: left;
+	font-size: 45px;
+	font-weight: 300;
+
+}
+ 
+ .cl-2 p{
+ 	padding:30px 50px 0px;
+ 	text-align: center;
+ 	color: #000;
+ 	font-size: 16px;
+ 	font-weight: 500;
+ }
