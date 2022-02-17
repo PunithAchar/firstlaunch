@@ -10,6 +10,10 @@
     font-weight: bold;
     color: blue;
    }
+
+   .navbar-brand:hover{
+       cursor: pointer;
+   }
    
 /* HOME PAGE  SECTION */
 
@@ -76,6 +80,10 @@
  }
 
 /*WHY CHOOSE LEARNEST card*/
+
+.card:hover{
+ cursor: pointer;
+}
 
 .wcl-card{
 	margin-top:-90px; 
@@ -169,6 +177,9 @@ ul li{
     font-size: 16px;
     font-weight: 500;
 
+}
+ul li:hover{
+    cursor: pointer;
 }
 
 .fcl-1 p{
